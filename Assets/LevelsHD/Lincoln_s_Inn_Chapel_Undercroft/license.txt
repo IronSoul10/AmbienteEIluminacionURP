@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lincoln's Inn Chapel Undercroft
+* source:	https://sketchfab.com/3d-models/lincolns-inn-chapel-undercroft-922db2c7667243fcb98ca8fca706f44b
+* author:	artfletch (https://sketchfab.com/artfletch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lincoln's Inn Chapel Undercroft" (https://sketchfab.com/3d-models/lincolns-inn-chapel-undercroft-922db2c7667243fcb98ca8fca706f44b) by artfletch (https://sketchfab.com/artfletch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
