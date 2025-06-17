@@ -1,0 +1,11 @@
+Model Information:
+* title:	Salt Tower Lower Room
+* source:	https://sketchfab.com/3d-models/salt-tower-lower-room-e70bf7f911984b4385e335ab294e028b
+* author:	artfletch (https://sketchfab.com/artfletch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Salt Tower Lower Room" (https://sketchfab.com/3d-models/salt-tower-lower-room-e70bf7f911984b4385e335ab294e028b) by artfletch (https://sketchfab.com/artfletch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
