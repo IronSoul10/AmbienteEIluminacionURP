@@ -49,7 +49,7 @@ MonoBehaviour:
     m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   balance:
     m_OverrideState: 1
-    m_Value: -8
+    m_Value: 3
 --- !u!114 &-2262347226538579373
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -266,7 +266,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81180773991d8724ab7f2d216912b564, type: 3}
   m_Name: ChromaticAberration
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   intensity:
     m_OverrideState: 1
     m_Value: 0
@@ -294,13 +294,13 @@ MonoBehaviour:
     m_Value: 50
   enableGround:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   groundHeight:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: -3.73
   density:
     m_OverrideState: 1
-    m_Value: 0.56
+    m_Value: 1
   attenuationDistance:
     m_OverrideState: 0
     m_Value: 128
@@ -314,11 +314,11 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   anisotropy:
-    m_OverrideState: 0
-    m_Value: 0.4
+    m_OverrideState: 1
+    m_Value: -0.1
   scattering:
-    m_OverrideState: 0
-    m_Value: 0.15
+    m_OverrideState: 1
+    m_Value: 0.882
   tint:
     m_OverrideState: 0
     m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 0
   maxSteps:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 128
   blurIterations:
     m_OverrideState: 1
@@ -352,7 +352,7 @@ MonoBehaviour:
   active: 1
   postExposure:
     m_OverrideState: 1
-    m_Value: 1.5
+    m_Value: 2
   contrast:
     m_OverrideState: 1
     m_Value: 40
