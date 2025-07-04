@@ -321,7 +321,7 @@ MonoBehaviour:
     m_Value: 0.882
   tint:
     m_OverrideState: 0
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_Value: {r: 1, g: 0.9655043, b: 0.75, a: 1}
   enableAdditionalLightsContribution:
     m_OverrideState: 1
     m_Value: 0
@@ -358,7 +358,7 @@ MonoBehaviour:
     m_Value: 40
   colorFilter:
     m_OverrideState: 1
-    m_Value: {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+    m_Value: {r: 1, g: 0.8823842, b: 0.75, a: 1}
   hueShift:
     m_OverrideState: 0
     m_Value: 0
