@@ -43,19 +43,19 @@ MonoBehaviour:
   active: 1
   postExposure:
     m_OverrideState: 1
-    m_Value: 1.25
+    m_Value: 0.5
   contrast:
     m_OverrideState: 1
-    m_Value: 55
+    m_Value: 59
   colorFilter:
     m_OverrideState: 1
-    m_Value: {r: 0.98742133, g: 0.98742133, b: 0.98742133, a: 1}
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
   hueShift:
     m_OverrideState: 0
     m_Value: 0
   saturation:
     m_OverrideState: 1
-    m_Value: 85
+    m_Value: 56
 --- !u!114 &-3659808582855606546
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -142,6 +142,7 @@ MonoBehaviour:
   - {fileID: -3659808582855606546}
   - {fileID: -7187948976961366430}
   - {fileID: 7059120562444621464}
+  - {fileID: 4215785213286922016}
 --- !u!114 &3522682973145022790
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -157,7 +158,7 @@ MonoBehaviour:
   active: 1
   distance:
     m_OverrideState: 1
-    m_Value: 240
+    m_Value: 12
   baseHeight:
     m_OverrideState: 1
     m_Value: 0
@@ -172,7 +173,7 @@ MonoBehaviour:
     m_Value: 0
   density:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.717
   attenuationDistance:
     m_OverrideState: 0
     m_Value: 128
@@ -186,13 +187,13 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 0
   anisotropy:
-    m_OverrideState: 0
-    m_Value: 0.4
+    m_OverrideState: 1
+    m_Value: 0
   scattering:
-    m_OverrideState: 0
-    m_Value: 0.15
+    m_OverrideState: 1
+    m_Value: 0.052
   tint:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
   enableAdditionalLightsContribution:
     m_OverrideState: 1
@@ -209,6 +210,28 @@ MonoBehaviour:
   renderPassEvent:
     m_OverrideState: 0
     m_Value: 550
+--- !u!114 &4215785213286922016
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70afe9e12c7a7ed47911bb608a23a8ff, type: 3}
+  m_Name: SplitToning
+  m_EditorClassIdentifier: 
+  active: 1
+  shadows:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 0, b: 0, a: 1}
+  highlights:
+    m_OverrideState: 1
+    m_Value: {r: 0.5188679, g: 0.5188679, b: 0.5188679, a: 1}
+  balance:
+    m_OverrideState: 1
+    m_Value: 14
 --- !u!114 &7059120562444621464
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -224,7 +247,7 @@ MonoBehaviour:
   active: 1
   mode:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 0
   neutralHDRRangeReductionMode:
     m_OverrideState: 0
     m_Value: 2
@@ -270,7 +293,7 @@ MonoBehaviour:
     m_Value: 0.9
   intensity:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.08
   scatter:
     m_OverrideState: 0
     m_Value: 0.7
